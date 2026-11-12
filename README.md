@@ -1,4 +1,4 @@
-# ParkWise 🅿️
+# ParkWise 
 
 > **AI-assisted parking app for smooth parking in Stockholm.**
 > Know the rules, set a timer, avoid the fine.
